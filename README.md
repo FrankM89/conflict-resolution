@@ -1,6 +1,7 @@
 # conflict-resolution
 
-## subheading #1
+## Subheading #1
 
 
 adslkfjalkdsfj;lksadfjlkdwafj
+this is stuff
